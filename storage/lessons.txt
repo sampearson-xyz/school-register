@@ -1,0 +1,1 @@
+[{"name":"Maths - 04\/04\/22","class_group_id":1,"start":"2022-04-04 09:00:00","end":"2022-04-04 10:30:00","teacher_id":1},{"name":"English - 04\/04\/22","class_group_id":2,"start":"2022-04-04 11:00:00","end":"2022-04-04 12:30:00","teacher_id":2},{"name":"Science - 04\/04\/22","class_group_id":3,"start":"2022-04-04 13:30:00","end":"2022-04-04 15:00:00","teacher_id":1}]
