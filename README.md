@@ -18,5 +18,3 @@ This is an example Laravel project which allows the user to store registration m
 * View the register after cut-off time
 * Cycle through weeks instead of having one long list
 * Show individual students attendance as a percentage and add alert for admin if student attendance drops below 90%
-
-* Test
