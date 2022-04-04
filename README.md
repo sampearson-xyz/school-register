@@ -6,8 +6,9 @@ This is an example Laravel project which allows the user to store registration m
 
 * Clone the repo/download the files
 * Fill in your empty database credentials in .env (you'll need to create this file, please copy from .env.example)
-* In terminal run "php artisan import:demo", this will import all the demo data available. You can edit these demo files in the /storage directory
-* Navigate to the directory in terminal and run "php artisan serve", this will start the server on http:127.0.0.1:8000
+* Navigate to the directory in terminal and run "php artisan migrate" to create all the database tables
+* Run "php artisan import:demo", this will import all the demo data available. You can edit these demo files in the /storage directory
+* Run "php artisan serve", this will start the server on http:127.0.0.1:8000
 * Feel free to test drive the system!
 
 # To-Do
